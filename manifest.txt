@@ -1,4 +1,4 @@
-# L2 Talkaas manifest v1 2026-10-13 16:51:38
+# L2 Talkaas manifest v1 2026-10-13 16:55:46
 b0336cbf8b6c0a12e417b7a6e1dc63c433f3843c 2224 - system/AbnormalDefaultEffect.dat
 cb036309772db33526b8a0406e9e00d340d7848b 432 - system/AbnormalEdgeEffectData.dat
 373d4a61ae81b6f3b32ecf7f2d0aee0b32ebf4f8 12464 - system/ActionName-eu.dat
@@ -327,4 +327,4 @@ fb887f2f5837f582b92e8756f33da8effbdc1f92 14086 - system/locales/en-US.pak
 e3b51e8781fc0b3cb6e4a821ec20e21aca555235 331198 - SysTextures/H5br_cashtex.utx
 37654876bab5efbf136ced2738a3316a2371e319 4918478 - SysTextures/H5Icon.utx
 05871f41dab9de0d6eaa2c2e624181884dd7525c 5158147 - SysTextures/Talkaas.utx
-f630c6018e9b14f503ccf42337bbfabc99b640fb 37376 L TalkaasLauncher.exe
+85af55b673bb59a25803b2b15cbb4adee1f481d2 37376 L TalkaasLauncher.exe
